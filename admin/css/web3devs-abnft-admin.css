@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#toplevel_page_web3devs-abnft .dashicons-before img {
+    width: 18px;
+    height: 18px;
+}
+
+.web3devs-wrap.wrap {
+    background-color: #fff;
+    padding: 1rem;
+}
